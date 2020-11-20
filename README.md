@@ -1,1 +1,3 @@
-## React Projects Starter APP
+## React Project with fetching data and passing it down as props.
+
+first attempt
